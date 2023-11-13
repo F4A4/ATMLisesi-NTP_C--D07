@@ -1,0 +1,22 @@
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\bin\Debug\MetotlarTekrar.exe
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\bin\Debug\MetotlarTekrar.pdb
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.Form1.resources
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.Properties.Resources.resources
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.exe
+C:\Users\ogr\Desktop\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\HocanınYaptığı\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\HocanınYaptığı\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\bin\Debug\MetotlarTekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\bin\Debug\MetotlarTekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\HocanınYaptığıÖrnek\MetotlarTekrar\MetotlarTekrar\obj\x86\Debug\MetotlarTekrar.pdb

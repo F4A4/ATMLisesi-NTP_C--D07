@@ -1,0 +1,36 @@
+C:\Users\MO-04\Desktop\metot\metot\bin\Debug\metot.exe
+C:\Users\MO-04\Desktop\metot\metot\bin\Debug\metot.pdb
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\metot.Form1.resources
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\metot.Properties.Resources.resources
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\metot.exe
+C:\Users\MO-04\Desktop\metot\metot\obj\x86\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\bin\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\bin\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\metot.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\metot.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.Ders\metot\metot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\bin\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\bin\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\bin\Debug\metot.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\bin\Debug\metot.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\metot.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\7.GÜN\metot\metot\obj\x86\Debug\GenerateResource.write.1.tlog
